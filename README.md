@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eulices, I'm from Cuba and I'm a Full Stack Smart Contract Developer
+My name is Eulices, I'm from Cuba and I'm a  Full Stack Web3 Development with JavaScript 
 
 Actually I have a Bachelor dregree in Mechanical Engineering
 
