@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Eulices Garcés check out my -> [MyWebSite](www.eulicesgarces.com)
 
-My name is Eulices, I'm from Cuba and I'm a  Full Stack Web3 Development with JavaScript 
-
-Actually I have a Bachelor dregree in Mechanical Engineering
+Web Developer focusing in Web3 
 
 I have been studying programming oriented to BlockChain Development for some time and I really love de Code World..
 
