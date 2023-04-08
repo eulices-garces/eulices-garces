@@ -2,35 +2,12 @@
 
 Web Developer focusing in Web3 
 
-I have been studying programming oriented to BlockChain Development for some time and I really love de Code World..
-
-## Skills
-* Some JavaScript coding
-* BlockChain Concepts
-* Solidity
-* Smart Contract
-* NFTs
-* EVM
-* Ethereum
-* React.js
-* Node
-* Hardhat
-* Ether.js
-
-- 📫 How to reach me: 
-
-My email address is euicesgf01@gmail.com
-
-<!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Aston Costa Verde Beach as a Assistant Manager Engineer
 - 🌱 I’m currently learning about JavaScript, Solidity, Smart Contract, NFTs, EVM, Ethereum, React.js, Node, and other interesting things.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
--->
+- 👯 I’m looking to collaborate on Web3 Projects
+- 🤔 I’m looking for help with find a Mentorship or a Job into a Web3 Startup
+- 💬 Ask me about JavaScript, React, Solidity, Technologies
+- 📫 How to reach me: eulicesgf01@gmail.comm 
+- 😄 Pronouns: hi,his
